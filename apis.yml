@@ -1,19 +1,46 @@
 aid: nexiu
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nexiu.png
 name: Nexiu
-description: Nexiu is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Nexiu (Nexiu AI LLC) is a Latin America-focused recruiting automation platform
+  that uses AI agents to source, contact, screen, and schedule high-volume
+  candidates over the official WhatsApp Business API, integrating with Google
+  Workspace (Gmail, Calendar, Meet) and existing ATS systems and job boards. It
+  offers a fully managed pay-per-hire service (Nexiu Managed) and a self-service
+  SaaS platform (Nexiu Platform) for internal talent-acquisition teams, and is
+  backed by 500 Global (500 Latam) and NVIDIA Inception. As of this pass Nexiu
+  consumes third-party APIs (WhatsApp Business, Google, Anthropic Claude, OpenAI)
+  but does not publish a public developer API of its own.
 url: https://raw.githubusercontent.com/api-evangelist/nexiu/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - 500-global
+- nvidia-inception
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Recruiting
+- Human Resources
+- Automation
+- Artificial Intelligence
+- WhatsApp
+- Latin America
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,16 @@ maintainers:
 common:
 - type: Website
   url: https://nexiu.ai
+- type: Pricing
+  url: https://nexiu.ai/pricing
+- type: PrivacyPolicy
+  url: https://nexiu.ai/privacy
+- type: LLMsTxt
+  url: llms/nexiu-llms.txt
+- type: DomainSecurity
+  url: security/nexiu-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

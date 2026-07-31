@@ -1,0 +1,52 @@
+# Nexiu — Agentes de IA para Reclutamiento Masivo
+
+> Nexiu es una plataforma de automatización de reclutamiento que utiliza agentes de IA para buscar, contactar y filtrar candidatos a través de WhatsApp, integrándose con el ecosistema de Google y los principales ATS. Reducción del 60% en costos de contratación y procesos 3 veces más rápidos.
+
+## Información principal
+
+- **Propuesta de valor:** Reducción del 60% en costos de contratación y procesos 3X más rápidos.
+- **Canal principal:** API Oficial de WhatsApp Business (Meta).
+- **Integraciones:** Google Suite (Gmail, Calendar, Meet), ATS y Job Boards.
+- **Seguridad:** Encriptación de grado empresarial y cumplimiento de privacidad de datos.
+- **Infraestructura:** Cloud con monitoreo 24/7 y 99.9% uptime, integración nativa con Anthropic Claude y OpenAI.
+- **Localización:** Especializado en mercado Latam (México y región).
+- **Respaldo:** 500 Latam y NVIDIA Inception.
+
+## Modelos de servicio
+
+**Nexiu Managed (Servicio Gestionado)**
+- Delegación total del proceso de contratación.
+- Pago por éxito de contratación (zero risk).
+- Garantía de reemplazo incluida.
+- Ideal para empresas con o sin equipo de reclutamiento interno.
+
+**Nexiu Platform (SaaS)**
+- Acceso a la tecnología para equipos de Talent Acquisition internos.
+- Flujos y preguntas de filtrado 100% personalizables.
+- Onboarding estructurado y KAM dedicado.
+- Integración nativa con flujos de trabajo actuales.
+
+## Casos de uso y sectores
+
+- **Retail y Farmacias:** posiciones de alta rotación (cajeros, farmacéuticos).
+- **Logística:** operadores, choferes y personal de almacén.
+- **Servicios Financieros:** promotores y asesores de ventas.
+- **Hotelería:** meseros, cocina y recepción.
+
+## Tarifas
+
+- Prueba gratuita de 15 días para gestionar tus primeras 50 contrataciones.
+- Planes personalizados según las necesidades de cada empresa.
+- Detalle completo en [/pricing](https://nexiu.ai/pricing).
+
+## Pages
+
+- [Inicio](https://nexiu.ai/): resumen del producto, casos de uso, industrias y testimonios.
+- [Precios](https://nexiu.ai/pricing): planes Starter, Professional, Business y Enterprise; modelo Managed con fee por contratación.
+- [Agenda una demo](https://nexiu.ai/agendar-demo): reserva 25 minutos con el equipo de Nexiu.
+- [Tecnología y Seguridad](https://nexiu.ai/#technology): infraestructura en AWS y NVIDIA Inception.
+- [Casos de Éxito](https://nexiu.ai/case-studies): resultados reales (ej. 220 vacantes operativas en 61 días) e infraestructura certificada por Meta.
+
+## Optional
+
+- [Política de Privacidad](https://nexiu.ai/privacy): tratamiento y protección de datos de Nexiu AI LLC.
