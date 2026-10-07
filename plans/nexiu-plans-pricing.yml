@@ -1,0 +1,61 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://nexiu.ai/en/platform/pricing
+sources:
+- https://nexiu.ai/en/platform/pricing
+- https://nexiu.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Annual option offers 1 month free. Starter/Professional no minimum commitment; Business and Enterprise
+  require 6-month commitment. WhatsApp messaging (≈USD 0.05 per candidate) billed by Meta, not Nexiu.
+plan_count: 5
+currency: USD
+plans:
+- name: Starter
+  price_text: $200 USD / mo
+  price: 200
+  currency: USD
+  period: month
+  included_quota: 500 candidates / mo; up to 3 roles / agents; autonomous WhatsApp agents 24/7; interview
+    management + job portal; basic AI CV analysis; webhook integration + dashboard reporting; email support
+    (48h)
+- name: Professional
+  price_text: $600 USD / mo
+  price: 600
+  currency: USD
+  period: month
+  included_quota: 2,000 candidates / mo; up to 10 roles / agents; standard AI CV analysis; candidate delivery
+    to your ATS via API; analytics + campaigns; email + chat support (24h)
+- name: Business
+  price_text: $1,100 USD / mo
+  price: 1100
+  currency: USD
+  period: month
+  included_quota: 4,000 candidates / mo; up to 15 roles / agents; advanced AI CV analysis; public API;
+    BI + export; WhatsApp + CSM support (4h)
+- name: Enterprise
+  price_text: Custom
+  period: none
+  included_quota: Unlimited candidates; unlimited roles / agents; custom AI models; dedicated 24/7 support
+    + Account Manager
+- name: Free trial
+  price_text: 'Free trial: 15 days and up to 300 candidates, no credit card.'
+  period: one-time
+  included_quota: 15 days, up to 300 candidates
+rate_limit_statements:
+- 500 candidates / mo
+- 2,000 candidates / mo
+- 4,000 candidates / mo
+- Up to 3 roles / agents
+- Up to 10 roles / agents
+- Up to 15 roles / agents
